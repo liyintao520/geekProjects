@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="612d17a5-3214-4810-8488-5c2673d1c4b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/Library/Java/JavaVirtualMachines/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="/Library/Java/JavaVirtualMachines/apache-maven-3.3.9/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wRfmcL3m9MWyh5JO66fFFDu8Wt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.week1.work" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyHeart">
+    <configuration name="Base64HelloClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.week1.work.Base64HelloClassLoader" />
+      <module name="geekWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.week1.work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.week1.work.Hello" />
+      <module name="geekWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.week1.work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.week1.jvm.HelloClassLoader" />
+      <module name="geekWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.week1.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHeart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.week1.work.MyHeart" />
+      <module name="geekWork" />
+      <option name="PROGRAM_PARAMETERS" value="-XX:+PrintCommandLineFlags" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.week1.work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintHeart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.week1.work.PrintHeart" />
+      <module name="geekWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.week1.work.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeekDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="geekWork" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.GeekDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Base64HelloClassLoader" />
+      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.HelloClassLoader" />
+      <item itemvalue="Application.MyHeart" />
+      <item itemvalue="Application.PrintHeart" />
+      <item itemvalue="Spring Boot.GeekDemoApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyHeart" />
+        <item itemvalue="Application.PrintHeart" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.Base64HelloClassLoader" />
+        <item itemvalue="Application.HelloClassLoader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="612d17a5-3214-4810-8488-5c2673d1c4b8" name="Default Changelist" comment="" />
+      <created>1628426481833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628426481833</updated>
+      <workItem from="1628426484002" duration="5535000" />
+      <workItem from="1628467661687" duration="2298000" />
+      <workItem from="1628480301420" duration="3225000" />
+      <workItem from="1628504344900" duration="3537000" />
+      <workItem from="1628559316425" duration="105000" />
+      <workItem from="1628568890995" duration="755000" />
+      <workItem from="1628600648648" duration="975000" />
+      <workItem from="1628601707424" duration="2956000" />
+      <workItem from="1628604711320" duration="2612000" />
+      <workItem from="1628653962591" duration="9000" />
+      <workItem from="1628654001326" duration="398000" />
+      <workItem from="1628654739515" duration="20000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改作业">
+      <created>1628430949516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628430949516</updated>
+    </task>
+    <task id="LOCAL-00002" summary="画一张图，展示 Xmx、Xms、Xmn、Metaspache、DirectMemory、Xss&#10;这些内存参数的关系。">
+      <created>1628435617700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628435617700</updated>
+    </task>
+    <task id="LOCAL-00003" summary="选做题1">
+      <created>1628481481591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628481481591</updated>
+    </task>
+    <task id="LOCAL-00004" summary="选做题1">
+      <created>1628482191762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628482191762</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加注释">
+      <created>1628496356450</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628496356450</updated>
+    </task>
+    <task id="LOCAL-00006" summary="添加注释">
+      <created>1628530501627</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628530501627</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改作业" />
+    <MESSAGE value="画一张图，展示 Xmx、Xms、Xmn、Metaspache、DirectMemory、Xss&#10;这些内存参数的关系。" />
+    <MESSAGE value="选做题1" />
+    <MESSAGE value="添加注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加注释" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
